@@ -2,7 +2,7 @@
 
 This is AI assistant , It will collect your history from browser! 
 Then it will mine those hhistory and learn from it 
-and whenever you run it it will track your current time , predict the search via automaticall search it usuing your browser , no human interactiom !
+and whenever you run it it will track your current time , predict the search via automaticall search it usuing your browser , no human interaction !
 
 if you want the code email me personally ! 
 email:tanjilh136@gmail.com 

@@ -6,5 +6,4 @@ and whenever you run it it will track your current time , predict the search via
 
 if you want the code email me personally ! 
 email:tanjilh136@gmail.com 
- Here is the Project Video: 
- https://drive.google.com/file/d/1HW0vt29AeAFjbge59adgilwOK4AWVVm6/view?usp=sharing
+ Here is the Project Video has been attached
